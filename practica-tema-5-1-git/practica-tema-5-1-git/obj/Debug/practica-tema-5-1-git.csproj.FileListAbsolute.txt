@@ -1,0 +1,10 @@
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\bin\Debug\practica-tema-5-1-git.exe.config
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\bin\Debug\practica-tema-5-1-git.exe
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\bin\Debug\practica-tema-5-1-git.pdb
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica-tema-5-1-git.csprojAssemblyReference.cache
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica_tema_5_1_git.Form1.resources
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica_tema_5_1_git.Properties.Resources.resources
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica-tema-5-1-git.csproj.GenerateResource.cache
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica-tema-5-1-git.csproj.CoreCompileInputs.cache
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica-tema-5-1-git.exe
+C:\Users\14199\Desktop\practicaGit\practicaGit-20-21\practica-tema-5-1-git\practica-tema-5-1-git\obj\Debug\practica-tema-5-1-git.pdb
